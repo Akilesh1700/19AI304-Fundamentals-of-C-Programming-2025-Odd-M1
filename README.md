@@ -28,7 +28,7 @@ To build a C program that prints integer, float,character, and string literals o
 # Program:
 
 #include <stdio.h>
-
+```
 int main() {
     int intLiteral = 10;
     float floatLiteral = 3.14;
@@ -42,7 +42,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 # Output:
 
@@ -78,6 +78,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+```
 #include <stdio.h>
 #define PI 3.14159
 int main() {
@@ -88,7 +89,7 @@ int main() {
 
     return 0;
 }
-
+```
 # Output:
 
 <img width="474" height="125" alt="597311497-678f3841-422c-4280-ab2e-a163c1eba153" src="https://github.com/user-attachments/assets/26866bce-463a-4d78-821d-9865ca68bddc" />
@@ -170,6 +171,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include <stdio.h>
 int main() {
     int a, b;
@@ -195,7 +197,7 @@ int main() {
     printf("Bitwise NOT of b (~b) = %d\n", ~b);
     return 0;
 }
-
+```
 # Output:
 <img width="474" height="555" alt="597311621-53e7e0af-1d64-4333-91b6-b1951578171a" src="https://github.com/user-attachments/assets/ae6d3f87-c387-415c-91e7-3242d73eae3f" />
 
@@ -243,6 +245,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include<stdio.h>
 int main(){
     char ch;
@@ -254,6 +257,7 @@ int main(){
     :printf("Special Symbol\n");
     return 0;
 }
+```
 # Output:
 <img width="472" height="244" alt="597311674-f38fa12a-2443-4a8a-b7a3-f26ccd0728dd" src="https://github.com/user-attachments/assets/4e0d3db5-11f4-4002-b65b-cbd2b0c3daf0" />
 
