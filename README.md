@@ -117,6 +117,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+```
 #include <stdio.h>
 int main() {
     int intVar = 25;
@@ -129,6 +130,7 @@ int main() {
     printf("Character value: %c\n", charVar);
     return 0;
 }
+```
 # Output:
 
 <img width="534" height="276" alt="597311551-d301e449-275e-445e-8093-ce527256566d" src="https://github.com/user-attachments/assets/36912ecd-7971-48b7-a8f0-28872b8f3950" />
